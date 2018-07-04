@@ -25539,6 +25539,7 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.cnds.TriggerOnce,
 	cr.plugins_.Audio.prototype.cnds.IsTagPlaying,
 	cr.plugins_.Audio.prototype.cnds.IsSilent,
+	cr.behaviors.rex_lunarray_Tween_mod.prototype.acts.Stop,
 	cr.behaviors.rex_lunarray_Tween_mod.prototype.cnds.OnEnd,
 	cr.plugins_.Sprite.prototype.cnds.IsAnimPlaying,
 	cr.behaviors.rex_lunarray_Tween_mod.prototype.cnds.IsActive,
